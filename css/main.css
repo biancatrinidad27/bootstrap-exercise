@@ -1,0 +1,40 @@
+.nav {
+  margin: 0px;
+  background-color: teal;
+}
+
+li a {
+  color: white;
+}
+
+.nav-pills>li.active>a {
+  background-color: gold;
+}
+
+.jumbotron {
+  text-align: center;
+}
+.heart img {
+  height: 80px;
+  width: 80px;
+}
+
+.btn-primary, .btn-default {
+  background-color: teal;
+}
+
+h2 {
+  text-align: center;
+  color: teal;
+}
+
+.img-responsive {
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+p {
+  color: teal;
+  text-align: center;
+}
